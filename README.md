@@ -1,3 +1,1 @@
-<div align = "center"> 
-<h2>Hello! Thafa's here!</h2>
-</div>
+<h2 align="center">Hello! Thafa's here!</h2>
