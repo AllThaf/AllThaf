@@ -10,8 +10,8 @@ Dengan membaca README ini, maka anda telah mengunjungi profil GitHub saya. Selam
 - **Basic Java**: Pengalaman mengerjakan tugas OOP membuat saya dapat memahami konsep OOP sampai batas tertentu.
 - **IoT**: Pengalaman sebagai anggota UKM Robotika menjadikan saya memiliki skill tentang IoT.
 
-<div align= "center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllThaf&layout=compact" style="width: 60%;" />
+<div align= "center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllThaf&layout=compact" style="width: 40%;" />
 </div>
 
 
@@ -28,7 +28,7 @@ Saya telah berkontribusi pada berbagai proyek yang melibatkan skill pemecahan ma
 - Membuat game Tic-Tac-Toe sebagai tugas besar mata kuliah Dasar-dasar Pemrograman pada Semester 1.
 - Masuk ke dalam tim support informatika dalam Kontes Robot Search and Rescue Nasional 2024. Disini, saya memiliki tugas untuk mempelajari tentang TensorFlow dan Raspberry Pi.
 
-<div align= "center;">
+<div align= "center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=AllThaf&show_icons=true&theme=dark"
