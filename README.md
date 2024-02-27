@@ -1,10 +1,10 @@
 # Profil singkat
 
-## Tentang Saya
+## 👨 Tentang Saya
 
 Dengan membaca README ini, maka anda telah mengunjungi profil GitHub saya. Selamat datang di profil GitHub saya! Saya adalah seorang mahasiswa yang sedang menempuh pendidikan di Jurusan D4 - Teknik Informatika. Saya memiliki minat di bidang Data Science dan tentunya saya akan berusaha sekuat tenaga untuk menjadi Data Scientist
 
-## Kepakaran
+## 💡 Kepakaran
 
 - **C/C++**: Pengalaman dalam membuat game Tic-Tac-Toe dengan menggunakan bahasa pemrograman C. Dan karena itu, saya dapat menguasai konsep ADT
 - **Basic Java**: Pengalaman mengerjakan tugas OOP membuat saya dapat memahami konsep OOP sampai batas tertentu.
@@ -15,12 +15,12 @@ Dengan membaca README ini, maka anda telah mengunjungi profil GitHub saya. Selam
 </div>
 
 
-## Pendidikan
+## 🎓 Pendidikan
 
 - SMA Negeri Jatinganor jurusan IPA
 - Politeknik Negeri Bandung jurusan D4 - Teknik Informatika
 
-## Proyek dan Kontribusi
+## 🔨 Proyek dan Kontribusi
 
 Saya telah berkontribusi pada berbagai proyek yang melibatkan skill pemecahan masalah yang saya miliki. Beberapa highlight termasuk:
 
@@ -43,7 +43,7 @@ Saya telah berkontribusi pada berbagai proyek yang melibatkan skill pemecahan ma
 </div>
 
 
-## Menghubungi Saya
+## 📞 Menghubungi Saya
 
 Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
 
