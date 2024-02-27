@@ -11,7 +11,7 @@ Dengan membaca README ini, maka anda telah mengunjungi profil GitHub saya. Selam
 - **IoT**: Pengalaman sebagai anggota UKM Robotika menjadikan saya memiliki skill tentang IoT.
 
 <div align= "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllThaf&layout=compact" style="width: 60%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllThaf&layout=compact" style="width: 40%;" />
 </div>
 
 
